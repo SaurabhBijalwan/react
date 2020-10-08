@@ -6,8 +6,14 @@ git branch -M main
 git remote add origin https://github.com/SaurabhBijalwan/react.git
 git push -u origin main
 
-…or push an existing repository from the command line
-
+>>>>First time from new folder<<<<<<
+git init
+git add .
+git commit -m "first commit"
 git remote add origin https://github.com/SaurabhBijalwan/react.git
-git branch -M main
-git push -u origin main
+git push -u origin master
+                
+>>>>Next All Time<<<<
+git add .
+git commit -m "first commit"
+git push
